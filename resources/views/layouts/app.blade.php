@@ -260,7 +260,7 @@
         <div class="border-t border-gray-800 bg-gray-900 pt-12 pb-20 overflow-hidden relative">
             <div class="container mx-auto px-4 mb-10 text-center">
                 <span class="text-botw-red font-bold tracking-widest text-xs uppercase mb-2 block">Customer Stories</span>
-                <h3 class="text-white font-bold brand-font text-2xl">Testimoni</h3>
+                <h3 class="text-white font-bold brand-font text-2xl">Testimonial</h3>
             </div>
 
             <div class="absolute top-0 left-0 w-16 md:w-40 h-full bg-gradient-to-r from-gray-900 to-transparent z-20 pointer-events-none"></div>
